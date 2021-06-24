@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            175.1061487197876,
+            -38.33504125319617
+          ],
+          [
+            175.10614670813084,
+            -38.33502284391853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            175.10611452162266,
+            -38.33504756494742
+          ],
+          [
+            175.10613799095154,
+            -38.33504914288515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            175.1012121140957,
+            -38.33332496243299
+          ],
+          [
+            175.10124161839482,
+            -38.33330181879218
+          ]
+        ]
+      }
+    }
+  ]
+}
